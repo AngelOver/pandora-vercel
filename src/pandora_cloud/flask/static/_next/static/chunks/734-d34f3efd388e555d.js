@@ -3533,7 +3533,7 @@
 			var nD = (0, H.vU)({
 					helpAndFaq: {
 						id: "navigation.helpAndFaq",
-						defaultMessage: "Pandora On Github",
+						defaultMessage: "永久域名：chat.1ai.ink",
 						description: "GitHub source menu item"
 					},
 					confirmClearConversations: {
@@ -3668,7 +3668,7 @@
 				return (0, v.jsxs)("nav", {
 					children: [(0, v.jsxs)(nR, {
 						as: "a",
-						href: "https://github.com/pengzhile/pandora",
+						href: "https://chat.1ai.ink",
 						target: "_blank",
 						onClick: function() {
 							i(C.s6.clickFaqLink)
@@ -10255,7 +10255,7 @@
 					t = (0, k.nR)();
 				return (0, v.jsxs)(i0, {
 					children: [(0, v.jsxs)(i1, {
-						children: ["Unofficial ChatGPT", t && (0, v.jsx)(rQ, {
+						children: ["OpenAI ChatGPT 国内破解版", t && (0, v.jsx)(rQ, {
 							children: "Plus"
 						})]
 					}), (0, v.jsxs)(i2, {
